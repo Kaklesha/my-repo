@@ -1,8 +1,5 @@
 Some text readed now
-All changes of main get here
 
-Changes from <main>
-Heen from somebode come here!
-
+Changes for master 2
 
 
